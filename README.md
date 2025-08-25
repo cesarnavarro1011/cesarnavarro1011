@@ -43,6 +43,18 @@ Mi objetivo es seguir creando soluciones que impacten positivamente a los usuari
 
 ---
 
+## 📦 Mis librerías en npm
+
+### 📌 react-phone-input-prefixes  
+[![npm version](https://img.shields.io/npm/v/react-phone-input-prefixes.svg?color=green&logo=npm)](https://www.npmjs.com/package/react-phone-input-prefixes)  
+Un componente para inputs de teléfono 📱 en **React**, con soporte de prefijos y banderas 🌍.  
+
+```bash
+npm install react-phone-input-prefixes @radix-ui/react-popover @radix-ui/react-scroll-area
+# o
+yarn add react-phone-input-prefixes @radix-ui/react-popover @radix-ui/react-scroll-area
+```
+
 ## 📊 GitHub Stats  
 
 ![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)  
@@ -60,4 +72,3 @@ Mi objetivo es seguir creando soluciones que impacten positivamente a los usuari
 
 ✨ *Gracias por visitar mi perfil* ✨
 
--->
