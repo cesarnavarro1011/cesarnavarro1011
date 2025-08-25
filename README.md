@@ -63,7 +63,7 @@ yarn add react-phone-input-prefixes @radix-ui/react-popover @radix-ui/react-scro
 
 
 
-## 🌐 Conectemos  
+## 🌐 Conectemonos!  
 
 📩 **cesarnavarro1011@gmail.com**  
 
