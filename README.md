@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**cesarnavarro1011/cesarnavarro1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 
@@ -54,7 +49,7 @@ Mi objetivo es seguir creando soluciones que impacten positivamente a los usuari
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight)  
 
----
+
 
 ## 🌐 Conectemos  
 
